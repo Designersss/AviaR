@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e9cf479-b3dd-4f83-8463-a7deb20687e8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HwzFjz1lyv04iwfgKmFyraERTj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/deploy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\deploy\client\src\img\Main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e9cf479-b3dd-4f83-8463-a7deb20687e8" name="Changes" comment="" />
+      <created>1669210846810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669210846810</updated>
+      <workItem from="1669210857894" duration="8548000" />
+      <workItem from="1669219797273" duration="6790000" />
+      <workItem from="1669229248598" duration="1149000" />
+      <workItem from="1669231040229" duration="46000" />
+      <workItem from="1669269501556" duration="3427000" />
+      <workItem from="1669274533988" duration="1182000" />
+      <workItem from="1671645604156" duration="5940000" />
+      <workItem from="1671653406116" duration="1388000" />
+      <workItem from="1671684370174" duration="1928000" />
+      <workItem from="1671902225281" duration="3352000" />
+      <workItem from="1673372922531" duration="4285000" />
+      <workItem from="1673379838074" duration="19160000" />
+      <workItem from="1673438566422" duration="10446000" />
+      <workItem from="1673555066558" duration="4843000" />
+      <workItem from="1673638417697" duration="2779000" />
+      <workItem from="1673890653050" duration="10613000" />
+      <workItem from="1673986870765" duration="5970000" />
+      <workItem from="1674683180623" duration="3621000" />
+      <workItem from="1675237987802" duration="300000" />
+      <workItem from="1675238366665" duration="735000" />
+      <workItem from="1675239195594" duration="763000" />
+      <workItem from="1675239986451" duration="105000" />
+      <workItem from="1675240105216" duration="10294000" />
+      <workItem from="1675253725080" duration="11569000" />
+      <workItem from="1675271194578" duration="4531000" />
+      <workItem from="1675496909688" duration="4078000" />
+      <workItem from="1675682377493" duration="9231000" />
+      <workItem from="1675692462228" duration="11430000" />
+      <workItem from="1675946868274" duration="10524000" />
+      <workItem from="1675962126510" duration="7595000" />
+      <workItem from="1676059680744" duration="3335000" />
+      <workItem from="1676066743383" duration="411000" />
+      <workItem from="1676214825585" duration="1416000" />
+      <workItem from="1676216545461" duration="1750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+.aviaMap{
+  display: flex;
+  align-items: center;
+  background-color: #2F80ED;
+  color: #fff;
+  padding: 20px 40px;
+  border-radius: 10px;
+  .stop{
+    margin-left: 100px;
+    font-size: 16px;
+  }
+}
+
+.list{
+  img{
+    width: 250px;
+    height: 150px;
+  }
+}
+
+@media (max-width: 450px) {
+  .aviaMap{
+    display: block;
+    align-items: center;
+    background-color: #2F80ED;
+    color: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+    .stop{
+      margin-left: 0px;
+      margin-top: 30px;
+      font-size: 16px;
+    }
+  }
+}
